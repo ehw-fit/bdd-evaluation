@@ -1,0 +1,8 @@
+Makefile
+.deps
+*.lo
+*.la
+stamp-h1
+config.*
+.libs
+libtool
