@@ -1,5 +1,20 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2205.03267-b31b1b.svg)](https://arxiv.org/abs/2205.03267)
+
 # Fast BDD-based evaluation
 This repository provides codes for fast evaluation of approximate adders and subtractors by means of BDD diagrams. It employs BuDDy library but can be easily trasfered to CuDD (with C++ interface). The code style is inspired by Mathias Soeken tool [Cirkit](https://github.com/msoeken/cirkit). Note that this repository provides only the evaluation algorithms, not the searching algorithm.
+
+## Reference
+When you use this tool in your work/research, please cite the following article: MRAZEK Vojtech. Optimization of BDD-based Approximation Error Metrics Calculations. In: IEEE Computer Society Annual Symposium on VLSI (ISVLSI '22). Cyprus, 2022, p. 6.
+
+@INPROCEEDINGS{mrazek:ISVLSI22,
+   author = "Vojtech Mrazek",
+   title = "Optimization of BDD-based Approximation Error Metrics Calculations",
+   pages = 6,
+   booktitle = "IEEE Computer Society Annual Symposium on VLSI (ISVLSI '22)",
+   year = 2022,
+   location = "Paphos, CY"
+}
+
 
 
 ## Usage in your application
