@@ -6,6 +6,7 @@ This repository provides codes for fast evaluation of approximate adders and sub
 ## Reference
 When you use this tool in your work/research, please cite the following article: MRAZEK Vojtech. Optimization of BDD-based Approximation Error Metrics Calculations. In: IEEE Computer Society Annual Symposium on VLSI (ISVLSI '22). Cyprus, 2022, p. 6.
 
+```bibtex
 @INPROCEEDINGS{mrazek:ISVLSI22,
    author = "Vojtech Mrazek",
    title = "Optimization of BDD-based Approximation Error Metrics Calculations",
@@ -14,6 +15,7 @@ When you use this tool in your work/research, please cite the following article:
    year = 2022,
    location = "Paphos, CY"
 }
+```
 
 
 
